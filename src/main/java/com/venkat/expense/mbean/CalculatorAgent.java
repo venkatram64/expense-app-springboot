@@ -11,7 +11,7 @@ import java.util.Scanner;
  * setting the decimal places
  */
 
-public class CalculatorMain {
+public class CalculatorAgent {
 
     public static void main(String[] args) throws Exception{
         Calculator calculator = new Calculator();
